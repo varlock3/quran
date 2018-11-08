@@ -176,7 +176,7 @@ if (message.content.startsWith(prefix + 'setavatar')) {
 
 const child_process = require("child_process");
 const adminprefix = "Q";
-const devs = ['407695930750402561'];
+const devs = ['464046823162511400'];
 
 client.on('message', message => {
 if(message.content === adminprefix + "restart") {
